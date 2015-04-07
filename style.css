@@ -1,0 +1,17 @@
+.menu {
+	margin-left: 10%;
+}
+
+.menu li {
+	background-color: deeppink;
+	border-radius: 25px;
+	color:chartreuse;
+	display: inline-block;
+	font-family: Tahoma;
+	font-size: 1.5em;
+	text-align: center;
+	width: 20%;
+}
+.container {
+	margin-left: 5%;
+}
